@@ -22,10 +22,11 @@
 </script>
 Run on IDE
 Output: Console output
+Apple
+45
 
 Gokul
 Sivaji
 
 
-Apple
-45
+
